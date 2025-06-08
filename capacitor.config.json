@@ -1,0 +1,6 @@
+{
+	"appId": "sn.uniida.africaartapp",
+	"appName": "AfricaArt-app",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}

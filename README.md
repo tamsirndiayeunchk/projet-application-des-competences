@@ -80,7 +80,7 @@ Poussez la branche (git push origin feature/ma-feature)
 Ouvrez une Pull Request – nous suivons Conventional Commits + semantic versioning.
 
 Auteurs
-Tamsir Ndiaye – Lead dev & assistant projet
+Tamsir Ndiaye – Lead dev & assistant projet and IT
 
 Awa Fall – Lead dev & gestion produit
 
